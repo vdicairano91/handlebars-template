@@ -1,0 +1,22 @@
+{
+"mainnav": [
+    {
+        "title": "Home",
+        "url": "/index.html",
+        "pageid": "index",
+        "slug": ["index"]
+    },
+    {
+        "title": "About",
+        "url": "/about.html",
+        "pageid": "about",
+        "slug": ["about"]
+    },
+    {
+        "title": "Contact",
+        "url": "/contact.html",
+        "pageid": "contact",
+        "slug": ["contact"]
+    }
+]
+}

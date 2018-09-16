@@ -1,0 +1,9 @@
+<div class="container_header">
+	{{#list mainnav}}
+		{{#contains slug ../slug}}
+			<a class="active" href="{{url}}">{{title}}</a>
+			{{else  }}
+			<a href="{{url}}">{{title}}</a>
+		{{/contains }}
+	{{/list}}
+</div>
